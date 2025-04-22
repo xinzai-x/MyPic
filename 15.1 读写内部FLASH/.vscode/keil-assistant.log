@@ -1,0 +1,24 @@
+[info] Log at : 2025/4/1|16:55:01|GMT+0800
+
+[SyntaxError: Bad escaped character in JSON at position 155 (line 7 column 21)
+	at JSON.parse (<anonymous>)
+	at F.updateCppProperties (d:\APP\vscode\data\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:10849)
+	at F.<anonymous> (d:\APP\vscode\data\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:12579)
+	at Generator.next (<anonymous>)
+	at d:\APP\vscode\data\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4480
+	at new Promise (<anonymous>)
+	at r (d:\APP\vscode\data\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4225)
+	at F.load (d:\APP\vscode\data\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:11310)
+	at w.<anonymous> (d:\APP\vscode\data\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:8737)
+	at Generator.next (<anonymous>)
+	at a (d:\APP\vscode\data\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4282)]
+[info] Log at : 2025/4/1|16:56:48|GMT+0800
+
+[info] Log at : 2025/4/1|17:00:32|GMT+0800
+
+[info] Log at : 2025/4/1|18:46:03|GMT+0800
+
+[info] Log at : 2025/4/1|18:46:36|GMT+0800
+
+[info] Log at : 2025/4/1|20:43:29|GMT+0800
+
